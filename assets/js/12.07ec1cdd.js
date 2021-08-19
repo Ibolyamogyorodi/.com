@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{402:function(t,s,n){"use strict";n.r(s);var e=n(14),i=Object(e.a)({},(function(){var t=this.$createElement,s=this._self._c||t;return s("section",[s("h2",{attrs:{id:"comments"}},[this._v("Comments")]),this._v(" "),s("disqus")],1)}),[],!1,null,null,null);s.default=i.exports}}]);
